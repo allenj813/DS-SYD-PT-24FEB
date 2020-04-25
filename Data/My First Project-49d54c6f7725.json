@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "enduring-broker-275303",
+  "private_key_id": "49d54c6f77254ecbdefdf24458980aced760bdf4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2wOTAIEJ1rWIV\nmZWcvqgUWsx5/FlKg4o3CIfs1cmM14B8SzKwAPDZc7aBM1TYtx2bl9CKrr2PcMxu\nNMvk2CpfOwMlFNwtTZiUZkOficQZxTT7Lv5icuiA8RR6F5L9NAMks/mzqhsztNmy\npDfPkik50sbGAMhyTLTv0KFsylwH2KFNbdqYyfRjP3OxooVgP9vz9Ac0VDNmKdhN\nj7xcY9buaBN/WIB/DNWQIV45RTj4a+0su/3dL8Bls4PFUJf7nspB2bDxWQ5hX1Vl\n5UKaaR/rUifvExoyWbSYgzFXgMjUauK/Spk1XdUmAe0FvXvGM+ipsLyDxk/0LHBB\nR1IGHSUHAgMBAAECggEABThdUF+bhmD9fEB21ZNcmbg+Pv3GTyqSuB+2Qj2ZFDzT\nnrlHKV/dgViczfP5aHdSkS809cEoCQDf1gYMDO1fyHiXDmgaIfElepexNs1onJPV\nf5dIDOfbXFOGkjY6LKFftZyudUNWo5N25HNsZLF4G/65Ts6W6yzlvjPnaIQfPNoW\n5BY8N6duu30C+SbG1py51eKBpnHwiKa16aBdDYP1zoAIGSMb3IX0e+mPrVayXyjR\nahwqvrMdViRe78KpxZbOAn85jOm6gGHpDS7j93cqmbwy08NCczDTH/+QMznK/SxY\n+cd+rgr6wvXFbDU4z2V90kKFfg9dEpa/jnNhOPbmgQKBgQDgGjXu96G2OJOR7JHA\nFjXosLfze3ysg1gBuCFxbqBTqZXm3FGwEq7d388ewH7C/PhlV0c0TjEc5lq/8Ev3\nw6YYuE3LJF6z7cYHwPV1Q35L3t63cgUczgHQo++buAr6gIFZI25txgylNqJbBVju\nVtCHL/D+on7UtPfx/8EBwLio1QKBgQDQxAWN1Su+3Hv0nokdKutBrMK0aZTudp2F\nlJKTbIf7RjXr7hNCQFukScBAt1tJa7LntPdnzI1nJ5eGAI9bQtUxW/nXAzr6+79l\n1izo6i5f9aQL2B6k/Q7SVqugLoD9gwu0iBp3QjxKeSWI+o+gfu/LoRYz9E62Dou4\nnzVmpr5EawKBgCWigTg2ggPWEIJLFlcJ49fGBb5wGInoLNltEMC58Vbbff8dNOK6\n4H8GXQQvE5qvXQ+3zo9sKjdOQCNHuZpMUxKHsRjSbM0Ou1kGALLGuOkI7qIkFdO2\njPt67HxcNgvHlPFhT+RDhFAikrVyenLcRXzOgkxhAae7FIChkMo4kUpZAoGBAJMx\norjeFHn9+2f+X66xFC66II4T424/M9F7b92CKF6CooI22l1cA0FSvrrijPq3dOzq\nK4aEMy8IO03AF1PBS5AByaZQIMXVup2S5RdUBl6iU4gGWZT61/h2I4xNPaWBQD+J\ntx9fFCNuR4jNIXeICIsKiR0YpGa42srRdlVqO70BAoGAbpXsALReeAS66r7ECjgc\nsJNSGckUCkhEDVFVBKfve6nwLoROjS7jkkv3/zweGLdjjxaFXKNTgji52XnS0Y8Q\nrPsoiGldQExKLUkXqFekBc0L0maA+7Tk+bMtCQYMcuQqGs24uL/4DXtVKadJd89i\nYf/N+9yG3L030k+DjQHvu4M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "explorations@enduring-broker-275303.iam.gserviceaccount.com",
+  "client_id": "107502162056162601625",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/explorations%40enduring-broker-275303.iam.gserviceaccount.com"
+}
